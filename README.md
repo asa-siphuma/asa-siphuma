@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Asa
 
-I'm a third year computer science student from the University of Pretoria. Here's a bit about me:
+I'm a web/frontend developer. Here's a bit about me:
 
 - I specialize in frontend development.
 - I'm currently learning the MERN stack.
@@ -13,8 +13,7 @@ Here are some of the technologies and tools I work with:
 - **Tools & Platforms:** `GitHub` `GitHub Desktop` `Visual Studio Code`
 
 Technologies I am in the process of learning:
-- `Next.js` `Node.js`
-- `React`
+- `Next.js` 
 - Backend development
 
 ## ⚡ Fun Facts
